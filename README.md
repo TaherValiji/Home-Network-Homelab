@@ -8,7 +8,7 @@ This repo documents the layout of my home network — from ISP to endpoint devic
 
 ## Network Diagram
 
-![Home Network Diagram](networkdiagram.html)
+![Home Network Diagram](networkDiagram.png)
 
 ## Topology
 
